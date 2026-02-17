@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-node",
+  "title": "Infinity Node",
+  "emoji": "\ud83d\udd18",
+  "purpose": "Independent research processes. Nodes communicate via bismuth signal to form a distributed brain.",
+  "tools": [
+    "Node Status",
+    "Process Queue",
+    "Signal I/O",
+    "Data Buffer"
+  ],
+  "color": "#795548",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
